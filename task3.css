@@ -1,0 +1,96 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* s part coloring */
+.home #spart {
+    margin-left: 2%;
+    color: rgb(0, 128, 19);
+    font-size: x-large;
+}
+
+/* second part of eStartup */
+.home .nav span {
+    font-size: 120%;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 019px;
+}
+
+.home .nav ul {
+    /* remove list dots */
+    list-style-type: none;
+
+
+}
+
+.home .nav ul li {
+
+
+    padding: 2px;
+
+    display: inline-block;
+    float: right;
+    padding: 1%;
+
+
+}
+
+
+.home .nav ul a {
+
+    text-decoration: none;
+    /* underline removal */
+    color: black;
+    hover-color: #FF0000
+}
+
+/* coloring of the word home */
+.home #fe3 {
+    color: rgb(0, 182, 0);
+}
+
+.home .nav ul a:hover {
+    color: green;
+    /* green when hoovering */
+}
+
+
+#t1
+
+/* title  */
+    {
+    text-align: center;
+    margin-top: 3%;
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+/* paragraph  */
+.home p {
+    margin-top: 1%;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.home img#i1
+
+/* resize image */
+    {
+    margin-top: 2%;
+    width: 50%;
+
+}
+
+.home .di1
+
+/* image div */
+    {
+
+    text-align: center;
+    width: 100%;
+    
+}
